@@ -27,24 +27,47 @@ I'm driven by the challenge of finding the 'needle in the haystack' bug and the 
 
 I believe in using the right tool for the job and am comfortable across the entire testing lifecycle.
 
-#### **Automation & Performance Testing**
-*   **Playwright:** My go-to for modern, fast, and reliable end-to-end testing.
-*   **Selenium:** Expert in creating robust, scalable automation suites.
-*   **Apache JMeter:** Conducting comprehensive load and stress testing to identify performance bottlenecks.
+#### **Test Automation Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+</p>
 
-#### **API & Defect Management**
-*   **Postman:** For thorough API testing and validation.
-*   **Jira:** Expert in defect tracking, sprint planning, and coordinating with cross-functional teams.
-*   **Trello:** For project management and workflow organization.
+#### **Performance & Load Testing**
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" alt="JMeter">
+</p>
 
-#### **Development & DevOps**
-*   **Languages:** JavaScript, Java, Python, HTML, CSS
-*   **Frameworks:** React, Page Object Model (POM)
-*   **CI/CD:** GitHub Actions (for automated test runs)
+#### **API Testing**
+<p align="left">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+</p>
 
-#### **Business & Management**
-*   **Administration:** Project Management, Agile/Scrum methodologies, Process Optimization.
-*   **HR:** Recruitment, Employee Relations, Organizational Behavior, HR Strategy.
+#### **CI/CD & DevOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
+</p>
+
+#### **Defect & Project Management**
+<p align="left">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
+</p>
+
+#### **Development Languages & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
+
+#### **Business & HR Management**
+<p align="left">
+  <img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Agile">
+  <img src="https://img.shields.io/badge/HR_Strategy-0A66C2?style=for-the-badge&logo=hr&logoColor=white" alt="HR Strategy">
+  <img src="https://img.shields.io/badge/Process_Optimization-FFA500?style=for-the-badge&logo=process&logoColor=white" alt="Process Optimization">
+</p>
 
 ---
 
@@ -55,8 +78,8 @@ Here are some highlights of my work, demonstrating my commitment to quality and 
 | Project | Description | Tech Stack | Key Achievements |
 | :--- | :--- | :--- | :--- |
 | **Sufra OS Performance Testing** | Designed and executed comprehensive load and stress tests for a major SaaS product to ensure stability under heavy user load. | **JMeter**, Grafana (for reporting) | Analyzed response time, throughput, and error rates, identifying critical bottlenecks. |
-| **ArivPay Sign-Up Automation** | Automated the complex, multi-step registration workflow to ensure a flawless user experience. | **Playwright**, POM, **GitHub Actions** | Created a maintainable automation suite that runs on every build, catching regressions instantly. |
-| **Intaj Functional & Regression Testing** | Led test planning, execution, and defect tracking across multiple sprints for a web-based product. | **Jira**, Trello, Selenium | Improved test coverage and reduced post-release defects by coordinating test efforts effectively. |
+| **ArivPay Sign-Up Automation** | Automated the complex, multi-step registration workflow to ensure a flawless user experience. | **Playwright**, **POM**, **GitHub Actions** | Created a maintainable automation suite that runs on every build, catching regressions instantly. |
+| **Intaj Functional & Regression Testing** | Led test planning, execution, and defect tracking across multiple sprints for a web-based product. | **Jira**, **Trello**, **Selenium** | Improved test coverage and reduced post-release defects by coordinating test efforts effectively. |
 
 ---
 
@@ -64,7 +87,16 @@ Here are some highlights of my work, demonstrating my commitment to quality and 
 
 *   **BSc (Hons) in Software Engineering** - *Open University Sri Lanka (2021 - 2026)*
 *   **BA in Business Administration & HRM (HND Level)** - *IMBS Green Campus (2025 - 2027)*
-*   **Professional Certificates:** Quality Assurance Techniques & Methodologies, Continuous Testing, Codeless Test Automation with Selenium IDE, Cost of Software Quality, and more.
+*   **Diploma in Human Resources Management** - *IMBS Green Campus*
+*   **Diploma in English** - *IMBS Green Campus*
+*   **Diploma in Cyber Security and Ethical Hacking** - *SITC Campus*
+*   **Diploma in Software Testing** - *SITC Campus*
+
+**Professional Certificates:**
+- Quality Assurance Techniques & Methodologies
+- Continuous Testing
+- Codeless Test Automation with Selenium IDE
+- Cost of Software Quality
 
 ---
 
@@ -72,11 +104,12 @@ Here are some highlights of my work, demonstrating my commitment to quality and 
 
 I'm always open to connecting with fellow QA professionals, recruiters, and anyone interested in tech and quality!
 
+📫 **How to reach me:**
+*   **LinkedIn:** [Your LinkedIn URL]
+*   **Email:** [Your Email Address]
+
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Dilmi's GitHub stats" />
 </p>
-
-- 📧 Email: chathuryadilmi@gmail.com
-- 🌐 GitHub: [@dilsenevirathna](https://github.com/dilsenevirathna)
 
