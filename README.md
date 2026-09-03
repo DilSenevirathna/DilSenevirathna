@@ -175,14 +175,6 @@ Currently completing a **BSc in Software Engineering** alongside a **BA in Busin
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Dilmi's GitHub stats" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 I'm always open to connecting with fellow QA professionals, recruiters, and anyone interested in tech and quality!
