@@ -183,10 +183,10 @@ I'm always open to connecting with fellow QA professionals, recruiters, and anyo
   <a href="mailto:chathuryadilmi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile-url" target="_blank">
+  <a href="https://www.linkedin.com/in/dilmi-senevirathna-6b6933228/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://id-preview--14155261-b999-435e-a035-633ceb41589b.lovable.app/" target="_blank">
+  <a href="https://dilmisenevirathnaportfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://github.com/DilSenevirathna/" target="_blank">
